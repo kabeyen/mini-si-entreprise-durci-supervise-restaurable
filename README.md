@@ -22,3 +22,5 @@ d'un système d'information d'entreprise.
 - Ansible
 - Wazuh
 - Git et GitHub
+## 📚 Documentation
+- [🖥️ Dimensionnement de l'infrastructure (Mini-SI)](docs/dimensionnement.md)
