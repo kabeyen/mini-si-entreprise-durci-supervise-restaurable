@@ -24,3 +24,4 @@ d'un système d'information d'entreprise.
 - Git et GitHub
 ## 📚 Documentation
 - [🖥️ Dimensionnement de l'infrastructure (Mini-SI)](docs/dimensionnement.md)
+- [🌐 Architecture Réseau et Plan d'Adressage (VLANs)](docs/reseau-vlans.md)
